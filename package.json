@@ -1,7 +1,7 @@
 {
-  "name": "three-dee-prototype",
+  "name": "catalogo-tres-de",
   "version": "0.1.0",
-  "homepage": "https://github.com/Binec/catalogo-tres-de",
+  "homepage": "https://binec.github.io/catalogo-tres-de",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
