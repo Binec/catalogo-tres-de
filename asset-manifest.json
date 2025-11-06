@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Binec/catalogo-tres-de/static/css/main.350dc7e8.css",
+    "main.js": "/Binec/catalogo-tres-de/static/js/main.b7d44af0.js",
+    "index.html": "/Binec/catalogo-tres-de/index.html",
+    "main.350dc7e8.css.map": "/Binec/catalogo-tres-de/static/css/main.350dc7e8.css.map",
+    "main.b7d44af0.js.map": "/Binec/catalogo-tres-de/static/js/main.b7d44af0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.350dc7e8.css",
+    "static/js/main.b7d44af0.js"
+  ]
+}
